@@ -20,6 +20,12 @@
 [Как это работает](#-как-это-работает) •
 [FAQ](#-faq)
 
+<br>
+
+[![Скачать RefColorSync](https://img.shields.io/badge/⬇%20Скачать-RefColorSync.aseprite--extension-2ea44f?style=for-the-badge)](https://github.com/alalal68-wq/RefColorSync.0.1/releases/latest/download/RefColorSync.aseprite-extension)
+
+*Клик по кнопке сразу скачивает файл последнего релиза — просто дважды кликните по нему после загрузки, чтобы установить.*
+
 </div>
 
 ---
