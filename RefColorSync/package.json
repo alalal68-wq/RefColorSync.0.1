@@ -1,0 +1,15 @@
+{
+  "name": "refcolorsync",
+  "displayName": "RefColorSync",
+  "description": "Automatically sync foreground color from reference layer under cursor position",
+  "version": "0.1.0",
+  "author": "RefColorSync Team",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./main.lua"
+      }
+    ]
+  }
+}
